@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="600" src="https://cdn.dribbble.com/users/44433/screenshots/5957058/data-scientist-without-nose.gif" />
+<img align="center" width="700" height="500" src="https://cdn.dribbble.com/users/44433/screenshots/5957058/data-scientist-without-nose.gif" />
 
 <h1 align="center">Hi 👋, I'm PATIL AMIT</h1>
 <h3 align="center">A passionate Data Scientist & Data Analytics from India</h3>
