@@ -1,7 +1,7 @@
 <img align="center" width="700" height="500" src="https://cdn.dribbble.com/users/44433/screenshots/5957058/data-scientist-without-nose.gif" />
 
 <h1 align="center">Hi 👋, I'm PATIL AMIT</h1>
-<h3 align="center">A passionate Data Scientist & Data Analytics from India</h3>
+<h3 align="center">A passionate Data Scientist & Data Analytics from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" />
 
@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/patilam69962209" target="blank"><img src="https://img.shields.io/twitter/follow/patilam69962209?logo=twitter&style=for-the-badge" alt="patilam69962209" /></a> </p>
 
-- 🌱 I’m currently learning **Streamlit framework**
+- 🌱 I’m currently learning **Streamlit framework.**
 
-- 💬 Ask me about **Python,Mysql,ML,DL,NLP,Power Bi,Tableau**
+- 💬 Ask me about **Python,Mysql,ML,DL,NLP,Power Bi,Tableau.**
 
 - 📫 You can reach me **aamitpatil369@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
