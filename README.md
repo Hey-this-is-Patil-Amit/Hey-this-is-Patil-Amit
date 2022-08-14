@@ -13,12 +13,19 @@
 
 - 🌱 I’m currently learning **Streamlit framework.**
 
-- 💬 Ask me about **Python,Mysql,ML,DL,NLP,Power Bi,Tableau.**
+- 💬 Technical Skills **-->**<br>
+  **- Python**<br>
+  **- Mysql**<br>
+  **- ML**<br>
+  **- DL**<br>
+  **- NLP**<br>
+  **- Power Bi**<br>
+  **- Tableau.**
 
-- 📫 You can reach me **aamitpatil369@gmail.com**
+- 📫 You can reach me --> **aamitpatil369@gmail.com**
 
-- ⚡ Fun fact **I am Funny.**
-<br><br>
+- ⚡ Fun fact **--> I am Funny.**
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/patilam69962209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patilam69962209" height="30" width="40" /></a>
