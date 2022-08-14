@@ -1,4 +1,4 @@
-<img align="center" width="400" height="300" src="https://usercontent.one/wp/www.techregister.co.uk/wp-content/uploads/2020/06/Electric-Double-Layer-Capacitor-Market-Analysis-Latest-and-Future-Trends-Opportunities-Regional-Demand-and-Forecast-2026.gif" />
+<img align="center" width="300" height="250" src="https://usercontent.one/wp/www.techregister.co.uk/wp-content/uploads/2020/06/Electric-Double-Layer-Capacitor-Market-Analysis-Latest-and-Future-Trends-Opportunities-Regional-Demand-and-Forecast-2026.gif" />
 
 <h1 align="center">Hi 👋, I'm PATIL AMIT</h1>
 <h3 align="center">A passionate Data Scientist & Data Analytics from India.</h3>
