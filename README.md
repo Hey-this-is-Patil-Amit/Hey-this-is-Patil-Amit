@@ -26,7 +26,6 @@
 
 
 - 📫 You can reach me --> **aamitpatil369@gmail.com** <br>
--
 - &#129305; Call Me --> 7204289974
 
 
